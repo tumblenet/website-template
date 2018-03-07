@@ -1,9 +1,9 @@
-title: Tumble Network CSS
+title: Website Template
 description: > # this means to ignore newlines until "baseurl:"
   My Github Website
 base-url: ""
-url: "http://css.tumblenet.ga" # the base hostname & protocol for your site, e.g. http://example.com
-repository: tumblenet/tumblenet-css
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+repository: tumblenet/website-template
 
 #favicon: favicon.gif
 
